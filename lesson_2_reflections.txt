@@ -1,2 +1,6 @@
 git init to initialize repository in folder. Creates .git folder contining metadata
 git status returns useful information about a repository
+staging area allows you to sort file sthat are ready to be commited from those which are not from within a directory
+#How can you use the staging area to make sure you have one commit per logical change?
+-add the only the files related to the change to the staging area.
+git branch [branch name] , to create new branch when you wnat to try out some new features, versions.	
