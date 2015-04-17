@@ -1,0 +1,2 @@
+git init to initialize repository in folder. Creates .git folder contining metadata
+git status returns useful information about a repository

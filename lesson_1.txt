@@ -1,0 +1,3 @@
+diff -u in unix to compare files
+fc to compare in Windows
+commits should be performed at logical stopping places, like after working on a single function, bug, task
